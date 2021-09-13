@@ -1,0 +1,11 @@
+C:\Users\rssmonster\source\repos\wordpress-post\wordpress-post\bin\Debug\wordpress-post.exe.config
+C:\Users\rssmonster\source\repos\wordpress-post\wordpress-post\bin\Debug\wordpress-post.exe
+C:\Users\rssmonster\source\repos\wordpress-post\wordpress-post\bin\Debug\wordpress-post.pdb
+C:\Users\rssmonster\source\repos\wordpress-post\wordpress-post\obj\Debug\wordpress-post.csproj.AssemblyReference.cache
+C:\Users\rssmonster\source\repos\wordpress-post\wordpress-post\obj\Debug\wordpress_post.Form1.resources
+C:\Users\rssmonster\source\repos\wordpress-post\wordpress-post\obj\Debug\wordpress_post.Properties.Resources.resources
+C:\Users\rssmonster\source\repos\wordpress-post\wordpress-post\obj\Debug\wordpress-post.csproj.GenerateResource.cache
+C:\Users\rssmonster\source\repos\wordpress-post\wordpress-post\obj\Debug\wordpress-post.csproj.CoreCompileInputs.cache
+C:\Users\rssmonster\source\repos\wordpress-post\wordpress-post\obj\Debug\wordpress-post.csproj.CopyComplete
+C:\Users\rssmonster\source\repos\wordpress-post\wordpress-post\obj\Debug\wordpress-post.exe
+C:\Users\rssmonster\source\repos\wordpress-post\wordpress-post\obj\Debug\wordpress-post.pdb
